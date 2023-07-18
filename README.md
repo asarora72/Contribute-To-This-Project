@@ -1,3 +1,5 @@
+I wish to contribute. Please allow me push access. I am not able to send you twitter DM because you are not following me (@amarjitsa).
+
 # [Contribute To This Project](https://syknapse.github.io/Contribute-To-This-Project/)
 
 ![image info](favicon.png)
